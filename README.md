@@ -1,3 +1,3 @@
 # Bridge_of_Death
 SIMPLE_MATLAB&STM32_CODEING
-包含MATLAB轨迹分析，及STM32程序.
+Branch master:MATLAB轨迹分析，及STM32程序.
